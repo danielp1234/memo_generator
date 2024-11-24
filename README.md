@@ -53,6 +53,7 @@ npm install
 3. Install Python Dependencies
 ```bash
 pip install -r requirements.txt
+pip install 'crewai[tools]'
 ```
 
 4. Build the Project
@@ -106,7 +107,7 @@ npm start
 ## System Diagram
 - Bellow is diagram that explain the components of the application
 ![Structure](image/structure.jpg)
-- See example output memo [Link](https://drive.google.com/file/d/1RRfPpEildH1JYA3xVRKVKec0N0HmvZ0Q/view?usp=drive_link)
+- See example output memo [Link](https://drive.google.com/file/d/1Lt6d5HiTwAXT0a4cskHhpRcV40FkYvzP/view?usp=sharing)
 
 
 ## License
