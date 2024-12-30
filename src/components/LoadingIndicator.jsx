@@ -5,7 +5,7 @@ function LoadingIndicator() {
   return (
     <div className="loading-indicator">
       <div className="spinner"></div>
-      <p>Generating memorandum... This may take a few moments.</p>
+      <p>Generating memorandum... This may take 3 to 10 minutes.</p>
     </div>
   );
 }
